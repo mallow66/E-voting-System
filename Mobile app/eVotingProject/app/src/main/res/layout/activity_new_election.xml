@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView_code" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editText_code"
+        android:hint="Entrer le code d'une election" />
+
+    <Button
+        android:text="S'abonner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_code_election" />
+
+    <Button
+        android:text="Recuperer le Code "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recuperer_codes_button" />
+
+</LinearLayout>

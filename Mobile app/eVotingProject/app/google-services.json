@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "515921834112",
+    "firebase_url": "https://e-voting-project.firebaseio.com",
+    "project_id": "e-voting-project",
+    "storage_bucket": "e-voting-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515921834112:android:3c28912c3153b156",
+        "android_client_info": {
+          "package_name": "brahim.mallow.com.evotingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515921834112-5pt0g22d1tv29godt7pgmspkmib2ok6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS2GejnIq-pb76XFQNLajUlNjcTqvSXC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
