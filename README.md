@@ -5,18 +5,18 @@ In this repository, I share with you an implementaion of an Electronic Voting Sy
 ## Specification of requirements
 ### Identification of actors
 
-• The mobile application (front-office side) can be used by: all users
+- The mobile application (front-office side) can be used by: all users
 voters) with an account in the system to benefit from the various functions
 voting rules.
-• A candidate is considered a voter.
-• The web application (back-office side) can only be used by administrator.
+- A candidate is considered a voter.
+- The web application (back-office side) can only be used by administrator.
 
 ## Functionality expected from the front-office side
--Create a user account.
--Subscribe to one or more elections.
--Vote for a candidate in an election.
--Receive notifications (results available).
--See the start and end dates of each election.
+- Create a user account.
+- Subscribe to one or more elections.
+- Vote for a candidate in an election.
+- Receive notifications (results available).
+- See the start and end dates of each election.
 
 
 ## Functionality Expected back office functionality
