@@ -21,11 +21,11 @@ voting rules.
 
 ## Functionality Expected back office functionality
 
--Secure web traffic (outgoing and incoming) using the HTTPS protocol.
--Manage the connection to the MySQL database.
--Provide management space for each election.
--Calculates results.
--Send notifications to users. (the results available).
+- Secure web traffic (outgoing and incoming) using the HTTPS protocol.
+- Manage the connection to the MySQL database.
+- Provide management space for each election.
+- Calculates results.
+- Send notifications to users. (the results available).
 
 
 
@@ -33,7 +33,7 @@ voting rules.
 ### 000Webhost
 is a development environment on the cloud,
 Web applications. The platform also offers a free ssl certificate in order to secure
-the data. It supports several languages ​​and servers of data base, we integrate
+the data. It supports several languagesand servers of data base, we integrate
 PHP and MySQL during this project.
 
 
