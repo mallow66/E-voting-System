@@ -16,6 +16,15 @@ In this repository, I share with you an implementaion of an Electronic Voting Sy
 <img src="https://github.com/mallow66/E-voting-System/blob/master/images/12.png" width="300">
 <img src="https://github.com/mallow66/E-voting-System/blob/master/images/13.png" width="300">
 
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/14.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/15.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/16.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/17.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/18.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/19.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/20.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/21.png" width="300">
+
 
 ## Specification of requirements
 ### Identification of actors
