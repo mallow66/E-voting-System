@@ -2,9 +2,20 @@
 In this repository, I share with you an implementaion of an Electronic Voting System, using Android for the client side, and PHP for the Server Side.
 
 
-<img src="https://github.com/mallow66/E-voting-System/blob/master/images/1.png" width="200">
-<img src="https://github.com/mallow66/E-voting-System/blob/master/images/2.png" width="200">
-<img src="https://github.com/mallow66/E-voting-System/blob/master/images/3.png" width="200">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/1.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/2.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/3.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/4.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/5.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/6.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/7.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/8.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/9.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/10.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/11.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/12.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/13.png" width="300">
+
 
 ## Specification of requirements
 ### Identification of actors
