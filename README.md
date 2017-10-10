@@ -3,6 +3,8 @@ In this repository, I share with you an implementaion of an Electronic Voting Sy
 
 
 <img src="https://github.com/mallow66/E-voting-System/blob/master/images/1.png" width="200">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/2.png" width="200">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/3.png" width="200">
 
 ## Specification of requirements
 ### Identification of actors
