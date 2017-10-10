@@ -1,7 +1,7 @@
 # E-voting-System
 In this repository, I share with you an implementaion of an Electronic Voting System, using Android for the client side, and PHP for the Server Side.
 
-![alt text](1.png)
+![alt text](1.png = 100x)
 
 
 ## Specification of requirements
