@@ -24,7 +24,7 @@ In this repository, I share with you an implementaion of an Electronic Voting Sy
 <img src="https://github.com/mallow66/E-voting-System/blob/master/images/19.png" width="300">
 <img src="https://github.com/mallow66/E-voting-System/blob/master/images/20.png" width="300">
 <img src="https://github.com/mallow66/E-voting-System/blob/master/images/21.png" width="300">
-<img src="https://github.com/mallow66/E-voting-System/blob/master/images/classes.png" width="300">
+<img src="https://github.com/mallow66/E-voting-System/blob/master/images/classes.png">
 
 
 ## Specification of requirements
